@@ -7,10 +7,10 @@
 #include<glad/glad.h>
 #include<GLFW/glfw3.h>
 
-#include"shaderClass.h"
-#include"VAO.h"
-#include"VBO.h"
-#include"EBO.h"
+#include"headers/shaderClass.h"
+#include"headers/VAO.h"
+#include"headers/VBO.h"
+#include"headers/EBO.h"
 
 
 
